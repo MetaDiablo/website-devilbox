@@ -32,3 +32,9 @@ set up your hosts file to add your DNS record
 for windows add: `127.0.0.1 website.loc`
 
 then browse on to https://website.loc and you're good to go!
+
+(you may need to update your certificate authorities, with firefox you can import the certificate form the devilbox\ca directory)
+
+more instructions found here: https://support.mozilla.org/en-US/kb/setting-certificate-authorities-firefox
+
+For windows 10: https://docs.microsoft.com/en-us/skype-sdk/sdn/articles/installing-the-trusted-root-certificate
